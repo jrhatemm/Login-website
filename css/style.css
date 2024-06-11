@@ -1,0 +1,34 @@
+.main , nav{
+    background-color: #24353f;
+}
+
+h1{
+    color: #17a2b8;;
+}
+
+a:hover{
+    text-decoration: underline !important;
+}
+
+input , textarea {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+input::placeholder{
+    color: #17a2b8 !important;
+}
+
+.card{
+    width: 60%;
+    background-color: #24353f;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+nav{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.ainHome{
+    font-size: 30px;
+}
